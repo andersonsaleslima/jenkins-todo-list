@@ -9,7 +9,7 @@ Simple todolist write in django for general use and pipeline automation..
 > With great power comes great responsibility
 
 
-### Tech
+### Tech:
 
 Dillinger uses a number of open source projects to work properly:
 
